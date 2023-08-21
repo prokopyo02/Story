@@ -1,1 +1,1 @@
-1st chapter in learning Version Control using Git and Command Line
+1st chapter in learning Version Control using Git and Command Line. I am trying the branch feature of github. Yeah!
